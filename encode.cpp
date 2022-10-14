@@ -12,5 +12,6 @@ int main(int argc, char* argv[]) {
     f.compress();
     cout << "Compressed successfully" << endl;
     
+    
     return 0;
 }
